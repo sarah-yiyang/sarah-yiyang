@@ -5,16 +5,12 @@ Interested in machine learning systems, full-stack development, and AI safety & 
 
 Outside of CS, I’ve spent 10 years in ballet and spend my free time reading philosophy and sci-fi, or playing Stardew Valley :]
 
----
-
 ## Experience
 
 ### Break Through Tech (Cornell University) — AI/ML Fellow (May 2026–present)
 - Applied machine learning workflows including KNN, Decision Trees, and Logistic Regression  
 - Performed data preprocessing, feature engineering, and K-fold cross-validation  
 - Building ML solutions in collaborative, industry-mentored engineering environments  
-
----
 
 ## Campus Involvement
 
