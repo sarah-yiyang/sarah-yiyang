@@ -5,4 +5,6 @@
 * Outside of CS, I’ve spent 10 years in ballet and spend my free time reading philosophy and sci-fi, or playing Stardew Valley :]
 * Contact me at sarahyfitz01@gmail.com
 
-<img width="555" height="555" alt="studiousjunimo" src="studiousjunimo.jpg" />
+<p align="center">
+  <img width="100" height="100" alt="studiousjunimo" src="studiousjunimo.jpg" />
+</p>
