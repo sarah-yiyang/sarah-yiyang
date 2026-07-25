@@ -1,6 +1,6 @@
 ## Hi :] I'm Sarah
 
-I'm a Computer Science student at the University of Maryland interested in building AI-powered products that solve real-world problems and improve everyday experiences. You can check out my pinned projects below!
+I'm a Computer Science student at the University of Maryland interested in building AI-powered products that solve real-world problems and improve everyday experiences. 
 
 Currently exploring:
 
