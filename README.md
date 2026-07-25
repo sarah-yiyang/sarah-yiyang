@@ -8,7 +8,3 @@ Currently exploring:
 * 🌐 Full-stack development — building scalable and user-focused web applications
 
 Contact me anytime at sarahyfitz01@gmail.com!
-
-<p align="center">
-  <img width="100" height="100" alt="studiousjunimo" src="studiousjunimo.jpg" />
-</p>
