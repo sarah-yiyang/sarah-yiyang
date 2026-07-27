@@ -5,6 +5,6 @@ I'm a Computer Science student at the University of Maryland interested in build
 Currently exploring:
 
 * 🤖 AI engineering — LLM applications, ML pipelines, and intelligent agents
-* 🌐 Full-stack development — building scalable and user-focused web applications
+* 🌐 Full-stack development — building user-focused web applications
 
 Contact me anytime at sarahyfitz01@gmail.com!
